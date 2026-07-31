@@ -28,6 +28,6 @@ networking, database, and Git labs.
 
 ## 📌 Projects So Far
 
-[Linux Labs](https://github.com/Techsagon/linux-labs)
-[Database Labs](https://github.com/Techsagon/database-labs)
-[Git & Github](https://github.com/Techsagon/git-labs)
+[Linux Labs](https://github.com/Techsagon/linux-labs)  
+[Database Labs](https://github.com/Techsagon/database-labs)  
+[Git & Github](https://github.com/Techsagon/git-labs)  
