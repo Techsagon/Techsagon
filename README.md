@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Parsa aka Techsagon 👋
 
-<!--
-**Techsagon/Techsagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer focused on Linux, networking,
+automation, infrastructure, and cloud technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skills | Status |
+|---|---|
+| Linux | 🟡 Learning |
+| Networking | 🟡 Learning |
+| Git/GitHub | 🟡 Learning |
+| Databases | 🟡 Learning |
+| Python | ⏳ Planned |
+| Docker | ⏳ Planned |
+| Cloud | ⏳ Planned |
+| Terraform | ⏳ Planned |
+| Kubernetes | ⏳ Planned |
+
+## 🚀 DevOps Portfolio
+
+→ [View my DevOps Portfolio](https://github.com/Techsagon/devops-portfolio)
+
+## 📚 Current Focus
+
+Currently building hands-on experience through Linux,
+networking, database, and Git labs.
+
+## 📌 Projects So Far
+
+[Linux Labs](https://github.com/Techsagon/linux-labs)
+[Database Labs](https://github.com/Techsagon/database-labs)
+[Git & Github](https://github.com/Techsagon/git-labs)
