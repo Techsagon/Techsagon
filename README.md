@@ -11,11 +11,9 @@ automation, infrastructure, and cloud technologies.
 | Networking | 🟡 Learning |
 | Git/GitHub | 🟡 Learning |
 | Databases | 🟡 Learning |
-| Python | ⏳ Planned |
 | Docker | ⏳ Planned |
+| Python Automation | ⏳ Planned |
 | Cloud | ⏳ Planned |
-| Terraform | ⏳ Planned |
-| Kubernetes | ⏳ Planned |
 
 ## 🚀 DevOps Portfolio
 
