@@ -1,11 +1,11 @@
-# Hi, I'm Parsa aka Techsagon 👋
+# Hi, I'm Parsa 👋
 
 Aspiring DevOps Engineer focused on Linux, networking,
 automation, infrastructure, and cloud technologies.
 
 ## 🛠️ Skills
 
-| Skills | Status |
+| Skill | Status |
 |---|---|
 | Linux | 🟡 Learning |
 | Networking | 🟡 Learning |
@@ -17,7 +17,7 @@ automation, infrastructure, and cloud technologies.
 
 ## 🚀 DevOps Portfolio
 
-An Index to all my DevOps related projects, documentations, and labs.
+An index to all my DevOps-related projects, documentation, and labs.
 
 → [View my DevOps Portfolio](https://github.com/Techsagon/devops-portfolio)
 
@@ -30,4 +30,4 @@ networking, database, and Git labs.
 
 [Linux Labs](https://github.com/Techsagon/linux-labs)  
 [Database Labs](https://github.com/Techsagon/database-labs)  
-[Git & Github](https://github.com/Techsagon/git-labs)  
+[Git & GitHub](https://github.com/Techsagon/git-labs)  
